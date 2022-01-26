@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Updated on local.
-Rebase practice.
+Rebase practice(on main branch).
