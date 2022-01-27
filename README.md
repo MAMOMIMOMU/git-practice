@@ -4,3 +4,5 @@ Updated on local.
 Rebase practice(rebase conflict).
 
 For rebase on pull(on github).
+Practice stash.
+To make sure stash works.
